@@ -52,13 +52,13 @@
 
 <div data-importer="socials" align="left">
   <a href="https://www.instagram.com/j._s.o.n_?igsh=MThjaXU5M3NmY3JvNA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="instagram logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=olivio.n.filho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/joao-olivio?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=1DB954&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="linkedin logo"  />
   </a>
 </div>
 
